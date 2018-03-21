@@ -2,6 +2,7 @@
   "name": "rr-ssr-gists",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vsok.github.io/server-side-rendering-in-react",
   "dependencies": {
     "autoprefixer": "7.1.6",
     "babel-core": "6.26.0",
